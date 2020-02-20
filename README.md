@@ -1,6 +1,6 @@
 # Generar una paleta de colores
 
-Haciendo uso de mapas y bucles has de generar una página con la paleta de colores que se indica en la imagen a continuación:
+Haciendo uso de listas y bucles has de generar una página con la paleta de colores que se indica en la imagen a continuación:
 
 ![](referencias.png)
 
