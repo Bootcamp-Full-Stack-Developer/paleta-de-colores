@@ -4,10 +4,10 @@
 
 Tienes a disposición la siguiente paleta de colores:
 
-* primary: `#d9f5e8` y se llama Mint
-* success: `#37cbc2` y se llama Teal
-* warning: `#ffbb33` y se llama Gold
-* danger: `#ff6347` y se llama Tomato
+* primary: `#d9f5e8`, nombre color Mint;
+* success: `#37cbc2`, nombre color Teal;
+* warning: `#ffbb33`, nombre color Gold;
+* danger: `#ff6347`, nombre color Tomato;
 
 Con los datos que se te proporciona en la paleta de colores y haciendo uso de Sass, has de:
 
