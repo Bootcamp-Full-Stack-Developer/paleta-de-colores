@@ -1,24 +1,23 @@
-# Generar una paleta de colores
+# Sass: generar una paleta de colores 
 
-Haciendo uso de listas y bucles has de generar una página con la paleta de colores que se indica en la imagen a continuación:
+Haciendo uso de bucles y listas - o mapas si lo prefieres - has de maquetar una página HTML según el diseño (`paleta-colores.sketch`) que encuentras en este repositorio:
 
-![](referencias.png)
+![](layout.png)
 
-Has de mostrar las siguientes informaciones:
+Tienes a disposición la siguiente paleta de colores:
 
-* el nombre del modificador de bloque
-* el nombre del color
-* el valor en RGB del color
-* el valor en HSL del color
+* primary: `#d9f5e8` y se llama Mint
+* success: `#37cbc2` y se llama Teal
+* warning: `#ffbb33` y se llama Gold
+* danger: `#ff6347` y se llama Tomato
 
-## Colores:
+Con los datos que se te proporciona en la paleta de colores y haciendo uso de Sass, has de:
 
-- primary: #d9f5e8 y se llama Mint
-- success: #37cbc2 y se llama Teal
-- warning: #fb3 y se llama Gold
-- danger: #ff6347 y se llama Tomato
+* generar el nombre del modificador de bloque;
+* mostrar a pantalla el nombre del color;
+* extraer el valor RGB y HSL de cada color y mostrarlo donde corresponde;
 
-Tienes a disposición el siguiente fragmento de código HTML para generarla _card_ cada color:
+Tienes a disposición el siguiente fragmento de código HTML para generar la _card_ de cada color:
 
 ```html
 <div class="card">
